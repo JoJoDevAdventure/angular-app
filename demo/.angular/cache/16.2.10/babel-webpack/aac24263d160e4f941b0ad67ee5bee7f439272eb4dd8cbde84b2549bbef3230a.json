@@ -1,0 +1,1 @@
+{"ast":null,"code":"export class Flight {}","map":{"version":3,"names":["Flight"],"sources":["/Users/youssefbouhlel/Downloads/angular-crud/demo/src/app/flight/flight.ts"],"sourcesContent":["export class Flight {\n  id!: number;\n  from!: string;\n  to!: string;\n  date!: Date;\n}\n"],"mappings":"AAAA,OAAM,MAAOA,MAAM"},"metadata":{},"sourceType":"module","externalDependencies":[]}
